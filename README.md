@@ -1,4 +1,4 @@
-### 👋 I'm Hoàng Kim Long, a passionate student at FPT University, currently exploring the vast and exciting world of software development. My journey in the tech realm has been a thrilling adventure, and I'm always eager to learn and grow. 
+👋 I'm Hoàng Kim Long, a passionate student at FPT University, currently exploring the vast and exciting world of software development. My journey in the tech realm has been a thrilling adventure, and I'm always eager to learn and grow. 
 
 * 🌍  I'm based in Ho Chi Minh City
 * 🖥️  See my portfolio at [Hoang Kim Long Profile](http://klongg.net)
