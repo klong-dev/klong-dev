@@ -1,9 +1,9 @@
 👋 I'm Hoàng Kim Long, a passionate student at FPT University, currently exploring the vast and exciting world of software development. My journey in the tech realm has been a thrilling adventure, and I'm always eager to learn and grow. 
 
 * 🌍  I'm based in Ho Chi Minh City
-* 🖥️  See my portfolio at [Hoang Kim Long Profile](http://klongg.net)
-* ✉️  You can contact me at [longhoang8204@gmail.com](mailto:longhoang8204@gmail.com)
-* 🧠  I'm learning Laravel
+* 🖥️  See my portfolio at [Hoang Kim Long Profile](http://klong.dev)
+* ✉️  You can contact me at [longhk.dev@gmail.com](mailto:longhk.dev@gmail.com)
+* 🧠  I'm learning NestJS
 * ⚡  I'm secretly Iron Man... but don't tell anyone
 
 ### Skills
