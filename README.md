@@ -35,13 +35,13 @@ I specialize in backend development with NestJS and am continuously expanding my
 
 </div>
 
-## 📈 GitHub Insights
+## ⏱️ Coding Time
 
 <div align="center">
+  
+[![wakatime](https://wakatime.com/badge/user/140d86d7-67c7-4df2-9003-2b1c09cfdf78.svg)](https://wakatime.com/@klong_dev)
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=klong-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![GitHub Contributions Snake](https://raw.githubusercontent.com/klong-dev/klong-dev/output/github-contribution-grid-snake.svg)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=klong_dev&theme=tokyonight&layout=compact)](https://wakatime.com/@klong_dev)
 
 </div>
 
