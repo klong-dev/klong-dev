@@ -39,9 +39,9 @@ I specialize in backend development with NestJS and am continuously expanding my
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=klong-dev&show_icons=true&theme=tokyonight)](https://github.com/klong-dev)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=klong-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klong-dev&theme=tokyo-night)](https://github.com/klong-dev)
+![GitHub Contributions Snake](https://raw.githubusercontent.com/klong-dev/klong-dev/output/github-contribution-grid-snake.svg)
 
 </div>
 
