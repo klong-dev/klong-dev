@@ -35,13 +35,13 @@ I specialize in backend development with NestJS and am continuously expanding my
 
 </div>
 
-## ⏱️ Coding Time
+## 📈 GitHub Insights
 
 <div align="center">
-  
-[![wakatime](https://wakatime.com/badge/user/140d86d7-67c7-4df2-9003-2b1c09cfdf78.svg)](https://wakatime.com/@klong_dev)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=klong_dev&layout=compact&theme=tokyonight)](https://wakatime.com/@klong_dev)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=klong-dev&show_icons=true&theme=tokyonight)](https://github.com/klong-dev)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klong-dev&theme=tokyo-night)](https://github.com/klong-dev)
 
 </div>
 
@@ -53,14 +53,6 @@ I specialize in backend development with NestJS and am continuously expanding my
 </div>
 
 ## 🤝 Connect with Me
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-klong--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klong-dev)
-
-</div>
-
----
 
 <div align="center">
   
