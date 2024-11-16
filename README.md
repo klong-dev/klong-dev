@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" alt="Wave">
   <h3>Xin chào | Hi | Hello!</h3>
-  <p><i>Software Developer | Full-stack Developer</i></p>
+  <p><i>Backend Developer | System Architecture</i></p>
 </div>
 
 ## 👨‍💻 About Me
