@@ -57,7 +57,7 @@ I specialize in backend development with NestJS and am continuously expanding my
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-klong--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klong-dev)
-[![Facebook](https://img.shields.io/badge/Facebook-hklong04-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hklong04/)
-[![Instagram](https://img.shields.io/badge/Instagram-long.8204-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/long.8204/)
+[![Facebook](https://img.shields.io/badge/Facebook-klong.dev-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/klong.dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-long.8204-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/klong.dev/)
 
 </div>
