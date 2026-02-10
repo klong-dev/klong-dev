@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" alt="Wave">
-  <h3>Xin chào | Hi | Hello!</h3>
+  <h3>Xin chào | Hello | Bonjour!</h3>
   <p><i>Backend Developer | DevOps Engineer</i></p>
 </div>
 
